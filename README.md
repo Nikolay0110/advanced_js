@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/t5mcqlecgi05yhmt?svg=true)](https://ci.appveyor.com/project/Nikolay0110/oop-js)
+[![Build status](https://ci.appveyor.com/api/projects/status/80wg6asegm1sb7n7?svg=true)](https://ci.appveyor.com/project/Nikolay0110/advanced-js)
 
 
 
